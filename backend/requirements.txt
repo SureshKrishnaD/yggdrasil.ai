@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+snowflake-sqlalchemy
+snowflake-connector-python
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+python-dotenv
